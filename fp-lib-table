@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name XT30)(type KiCad)(uri ${KIPRJMOD}/ext/KICAD_LIB/footprints/XT30.pretty)(options "")(descr ""))
+)

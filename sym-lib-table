@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name CRLG-Connectors)(type Legacy)(uri ${KIPRJMOD}/ext/KICAD_LIB/symbols/CRLG-Connectors.lib)(options "")(descr ""))
+  (lib (name CRLG-Passive)(type Legacy)(uri ${KIPRJMOD}/ext/KICAD_LIB/symbols/CRLG-Passive.lib)(options "")(descr ""))
+)
